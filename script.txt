@@ -1,0 +1,38 @@
+while true do
+wait(2.5) -- point 1
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1347.61, 1710.06, -857.059)
+wait(2.5) -- point 2
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1642.34, 1709.56, -987.984)
+wait(2.5) -- point 3
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1150.64, 1709.74, -1228.56)
+wait(2.5) -- point 4
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1451.07, 1709.78, 364.434)
+wait(2.5) -- point 5
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1125.85, 1712, -458.459)
+wait(2.5) -- point 6
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1502.47, 1712.05, -51.4451)
+wait(2.5) -- point 7
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1193.08, 1711.86, -1292.47)
+wait(1.5) -- point 8
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1478.24, 1712.15, 566.455)
+wait(2.5) -- point 9
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1526.34, 1712, -584.362)
+wait(2.5) -- point 10
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1513.09, 1712, -322.237)
+wait(2.5) -- point 11
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1352.08, 1711.93, -947.845)
+wait(2.5) -- point 12
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1517.09, 1712, -406.237)
+wait(2.5) -- point 13
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1062.72, 1712.04, -201.235)
+wait(2.5) -- point 14
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1554.43, 1711.88, -1278.29)
+wait(2.5) -- point 15
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1526.34, 1712, -838.612)
+wait(2.5) -- point 16
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1206.77, 1712.11, 183.205)
+wait(2.5) -- point 17
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1563.77, 1711.85, -1455.94)
+wait(0.3)
+print("1 Lap Finished") 
+end
